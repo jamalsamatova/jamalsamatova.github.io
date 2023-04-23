@@ -1,4 +1,3 @@
-# jamalsamatova.github.io
 # 2100092527
 <!DOCTYPE html>
 <html>
